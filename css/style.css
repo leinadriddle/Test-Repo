@@ -1,0 +1,13 @@
+body {
+  padding: 100px;
+  background-color: #000000;
+}
+body img {
+  display: auto;
+  transition-duration: 2s;
+  z-index: 0;
+  transform: scale(0.1);
+}
+body img .img {
+  display: block;
+}
